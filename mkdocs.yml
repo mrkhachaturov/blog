@@ -100,7 +100,7 @@ plugins:
 
 # Additional configuration
 extra:
-  # homepage: blog/index.md 
+  homepage: blog/index.md 
   status:
     new: Recently added
     deprecated: Deprecated
