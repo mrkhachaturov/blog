@@ -79,10 +79,10 @@ plugins:
   - blog
   - search:
       separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
-      lang:
-        - en
-        - ru
-        - hy
+      # lang:
+      #   - en
+      #   - ru
+      #   - hy
   - awesome-pages
   - minify:
       minify_html: true
@@ -165,9 +165,5 @@ not_in_nav: |
   /tutorials/**/*.md
 
 # Page tree
-nav:  
-  - Home: blog/index.md  
-  # Commenting out the navigation as it won't be used  
-  # - Blog:  
-  #   - blog/index.md  
-
+nav:
+  - Home: blog/index.md
