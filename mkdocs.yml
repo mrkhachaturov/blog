@@ -19,7 +19,7 @@ theme:
   # language: en
   name: material
   logo: assets/logo.png
-  custom_dir: overrides
+  # custom_dir: overrides
   features:
     - announce.dismiss
     - content.action.edit
@@ -100,7 +100,7 @@ plugins:
 
 # Additional configuration
 extra:
-  homepage: blog/index.md 
+  # homepage: blog/index.md 
   status:
     new: Recently added
     deprecated: Deprecated
@@ -164,6 +164,6 @@ markdown_extensions:
 not_in_nav: |
   /tutorials/**/*.md
 
-# Page tree
-nav:
-  - Home: blog/index.md
+# # Page tree
+# nav:
+#   - Home: blog/index.md
