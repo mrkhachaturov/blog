@@ -19,7 +19,7 @@ theme:
   # language: en
   name: material
   logo: assets/logo.png
-  # custom_dir: overrides
+  custom_dir: overrides
   features:
     - announce.dismiss
     - content.action.edit
