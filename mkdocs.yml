@@ -163,8 +163,8 @@ markdown_extensions:
 
 # not_in_nav: |
 #   /tutorials/**/*.md
-nav:
-  - Home: blog/index.md
+# nav:
+#   - Home: blog/index.md
 # # Page tree
 # nav:
 #   - Home: blog/index.md
